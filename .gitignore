@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+### java template
+# Lines that start with '#' are comments.
+# IntelliJ IDEA Project files
+.idea/
+*.iml
+*/*.iml
+target/
+
+# Eclipse Project files
+.classpath
+.project
+.settings/
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.zip
+*.tar.gz
